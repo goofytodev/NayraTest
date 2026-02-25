@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/NayraBase.API/NayraBase.API.csproj" />
+    <Project Path="src/NayraBase.Application/NayraBase.Application.csproj" />
+    <Project Path="src/NayraBase.Domain/NayraBase.Domain.csproj" />
+    <Project Path="src/NayraBase.Infrastructure/NayraBase.Infrastructure.csproj" />
+  </Folder>
+</Solution>
